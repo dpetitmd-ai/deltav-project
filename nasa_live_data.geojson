@@ -1,0 +1,10 @@
+{
+  "type": "FeatureCollection",
+  "name": "DeltaV_Project_NASA_Live_Sync",
+  "metadata": {
+    "project": "Delta-V Project",
+    "region": "Arcadia Planitia & Global Mars",
+    "last_nasa_sync_utc": "2026-11-16T00:59:38Z"
+  },
+  "features": []
+}
