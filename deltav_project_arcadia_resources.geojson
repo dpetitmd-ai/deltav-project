@@ -1,0 +1,208 @@
+{
+  "type": "FeatureCollection",
+  "name": "DeltaV_Project_Arcadia_Planitia_Resources_Hazards",
+  "metadata": {
+    "project": "Delta-V Project",
+    "landing_zone": {
+      "name": "Arcadia Planitia Primary LZ (+)",
+      "lat": 46.5,
+      "lon": -128.5,
+      "elevation_mola_m": -3150
+    },
+    "coordinate_system": "Areocentric (Mars IAU 2000)"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 101,
+        "name": "SHARAD-01 Subsurface Glacier",
+        "category": "water",
+        "details": "Water ice >85% purity at 1.8 m depth (Priority ISRU target)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -129.5,
+          48.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 102,
+        "name": "Milankovic Crater (Exposed Ice)",
+        "category": "water",
+        "details": "Clean water-ice scarps on northern crater wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.7,
+          54.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 103,
+        "name": "Fresh Impact Crater Arcadia",
+        "category": "water",
+        "details": "Recent ejecta exposing pure surface ice blocks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.2,
+          51.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 201,
+        "name": "Olivine-Rich Basalt Outcrop",
+        "category": "mineral",
+        "details": "Igneous rock rich in magnesium and ferrous silicates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.4,
+          47.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 202,
+        "name": "Phyllosilicates & Clay Deposit",
+        "category": "mineral",
+        "details": "Hydrated minerals suitable for ceramic extraction & radiation shielding"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5,
+          43.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 203,
+        "name": "Hematite & Magnetite Vein (Fe)",
+        "category": "mineral",
+        "details": "Metalliferous concentration for in-situ manufacturing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.8,
+          45.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 204,
+        "name": "Alba Fossae Hydrothermal Sulfates",
+        "category": "mineral",
+        "details": "Sulfur and calcium-rich deposit on volcanic flank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8,
+          40.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 301,
+        "name": "Arcadia Lava Tube (SPE Shelter)",
+        "category": "waypoint",
+        "details": "6m basaltic roof providing natural solar storm radiation shielding"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.9,
+          45.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 302,
+        "name": "Arcadia Dorsa Relay Station",
+        "category": "waypoint",
+        "details": "Elevated ridge for UHF/Ka-band communications link"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.7,
+          54.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 401,
+        "name": "Ejecta Boulder Field & Ventifacts",
+        "category": "hazard",
+        "details": "Sharp rocks (>1.2m). Mechanical hazard for EVA suit & rover wheels"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.2,
+          50.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 402,
+        "name": "Acheron Fossae Tectonic Fault (>28°)",
+        "category": "hazard",
+        "details": "Steep scarp with critical rover rollover risk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.9,
+          37.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 403,
+        "name": "Fine Dust Trap (Low THEMIS Inertia)",
+        "category": "hazard",
+        "details": "Unconsolidated regolith (k=1.5), high sinkage hazard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.2,
+          47.8
+        ]
+      }
+    }
+  ]
+}
